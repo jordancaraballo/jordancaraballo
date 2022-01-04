@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordancaraballo" alt="jordancaraballo" /> </p>
+
 <p align="center">
   <img src="https://www.nccs.nasa.gov/sites/default/files/NCCS_logo.png" alt="nccs" width="120" height="60"/>
   <img src="https://images.squarespace-cdn.com/content/v1/55d2a0e2e4b0cb42737278a2/1442984888864-9ZJY7ZRGS9DWLPIBC59Q/nasa+goddard+logo?format=1000w" alt="nccs" width="160" height="60"/>
