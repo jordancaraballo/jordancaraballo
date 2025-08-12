@@ -11,6 +11,7 @@ I am a Computer Engineer with the [Integrated Data Systems](https://etd.gsfc.nas
 Software Organizations I Support:
 
 * [NASA GSFC Data Science Group](https://github.com/nasa-nccs-hpda)
+* [NASA AURORA Pathfinder](https://github.com/AURORA-Pathfinder)
 * [NASA ARSET](https://github.com/NASAARSET/ARSET_ML_Fundamentals)
 
 ---
